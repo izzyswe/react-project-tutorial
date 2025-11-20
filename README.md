@@ -1,5 +1,3 @@
-# react-project-tutorial
-
-#In-Class exercise - Travel Journal
+# In-Class exercise - Travel Journal
 
 Step 1:
