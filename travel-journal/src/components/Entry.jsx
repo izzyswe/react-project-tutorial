@@ -1,3 +1,6 @@
+// Function receives props object as parameter (naming it "props" is convention)
+// Attribute names you pass become properties: <Entry title="..." /> → props.title
+
 //props
 //1.title --> content title ex.) Mount Fuji
 //2.img --> location image
