@@ -14,9 +14,9 @@ import Globe from "../assets/global.svg"
 // but generally not reccomended unless its inside the html tags for props or mapping and other specific use cases
 export default function Header(){
   return (
-    <header> {/*This is a comment! but also inside the return, the parent must only have ONE parent, if none fits, use <></> */}
-      <img src= {Globe} alt="logo"/>
-      <h1>my travel journal</h1>
+    <header className="header"> {/*This is a comment! but also inside the return, the parent must only have ONE parent, if none fits, use <></> */}
+      <img className="header__img" src= {Globe} alt="logo"/>
+      <h1 className="header__logo">my travel journal</h1>
     </header>
   )
 }
