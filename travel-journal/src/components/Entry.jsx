@@ -14,7 +14,7 @@ export default function Entry(props){
     return(
         <div className="card">
             <div className="card__img">
-                <img src={props.img} alt={props.title} />
+                <img src={props.img} alt={props.titleImg} />
             </div>
             <div className="card__content">
                 <div className="card__content-location">
